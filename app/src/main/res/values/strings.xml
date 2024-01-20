@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="enter_name">Enter contact name</string>
+    <string name="enter_surname">Enter contact surname</string>
+    <string name="enter_phone">Enter contact phone number</string>
+    <string name="submit">Submit</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="phonebook">Phonebook</string>
+    <string name="delete_contact">delete contact</string>
+</resources>
