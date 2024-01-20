@@ -6,7 +6,6 @@ sealed class HomeUIEvent {
     data class DeleteContact(val contact: Contact): HomeUIEvent()
     object UpdateContent: HomeUIEvent()
 
-    // todo delete contact
 
 
 }

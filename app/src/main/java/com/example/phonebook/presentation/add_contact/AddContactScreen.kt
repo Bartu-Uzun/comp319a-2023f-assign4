@@ -103,7 +103,7 @@ fun AddContactScreen(
                     ) {
                         Icon(
                             imageVector= Icons.Filled.ArrowBack,
-                            contentDescription = "Go back",
+                            contentDescription = stringResource(id = R.string.go_back),
                             modifier = Modifier
                                 .size(48.dp)
                         )
@@ -230,7 +230,7 @@ fun AddContactScreen(
                 Text(
                     text = errorMessage,
                     fontSize = 16.sp,
-                    color = MaterialTheme.colorScheme.error // todo check
+                    color = MaterialTheme.colorScheme.error
                 )
 
 

@@ -98,7 +98,7 @@ fun HomeScreen(
                             modifier = Modifier
                                 .size(40.dp),
                             imageVector = Icons.Default.Add,
-                            contentDescription = "Add contact"
+                            contentDescription = stringResource(id = R.string.add_contact)
                         )
                         
                     }
